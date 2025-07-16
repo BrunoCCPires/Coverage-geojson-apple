@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brazil",
+        "description": "Routing coverage for entire Brazilian territory"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-73.9872354804, -33.7683777809],
+            [-73.9872354804, 5.2842873409],
+            [-28.6341164044, 5.2842873409],
+            [-28.6341164044, -33.7683777809],
+            [-73.9872354804, -33.7683777809]
+          ]
+        ]
+      }
+    }
+  ]
+}
